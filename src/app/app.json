@@ -1,7 +1,7 @@
 {
   "name": "Your Custom App",
   "description": "An example private app that contains a two automotive-focused extensions.",
-  "scopes": [],
+  "scopes": ["crm.objects.contacts.read"],
   "public": false,
   "extensions": {
     "crm": {
