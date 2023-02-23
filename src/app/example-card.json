@@ -4,11 +4,15 @@
     "title": "Example CRM Card",
     "location": "crm.record.tab",
     "fetch": {
-      "targetFunction": "car-detail",
+      "targetFunction": "crm-card",
       "objectTypes": [
         {
-          "name": "contacts",
-          "propertiesToSend": ["firstname"]
+          "name": "deals",
+          "propertiesToSend": []
+        },
+        {
+          "name": "p_vehicles",
+          "propertiesToSend": []
         }
       ]
     }
