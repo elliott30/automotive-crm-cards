@@ -2,7 +2,7 @@
   "type": "crm-card",
   "data": {
     "title": "Titan DMS",
-    "location": "crm.record.tab",
+    "location": "crm.record.sidebar",
     "fetch": {
       "targetFunction": "car-detail-right",
       "objectTypes": [
