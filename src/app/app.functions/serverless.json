@@ -9,6 +9,10 @@
     "car-detail": {
       "file": "car-detail.js",
       "secrets": []
+    },
+    "car-detail-right": {
+      "file": "car-detail-right.js",
+      "secrets": []
     }
   }
 }

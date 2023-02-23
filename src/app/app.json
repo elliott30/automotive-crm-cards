@@ -8,6 +8,9 @@
       "cards": [
         {
           "file": "./car-detail.json"
+        },
+        {
+          "file": "./car-detail-right.json"
         }
 
         

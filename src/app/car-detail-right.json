@@ -1,10 +1,10 @@
 {
   "type": "crm-card",
   "data": {
-    "title": "Titan DMS Detail",
+    "title": "Titan DMS",
     "location": "crm.record.tab",
     "fetch": {
-      "targetFunction": "car-detail",
+      "targetFunction": "car-detail-right",
       "objectTypes": [
         {
           "name": "deals",
