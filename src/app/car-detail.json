@@ -11,6 +11,10 @@
           "propertiesToSend": []
         },
         {
+          "name": "tickets",
+          "propertiesToSend": []
+        },
+        {
           "name": "p_vehicles",
           "propertiesToSend": []
         }
